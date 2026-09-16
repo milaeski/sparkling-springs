@@ -179,12 +179,8 @@ footer {
 }
 
 .logo {
-    width: 220px;
-    max-width: 90%;
-    margin-bottom: 20px;
-}
-
-.logo:hover {
-    transform: scale(1.05);
-    transition: 0.3s;
+    width: 180px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
 }

@@ -1,17 +1,22 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f9ff;
-    text-align: center;
     margin: 0;
+    background-color: #f4f9ff;
+}
+
+header {
+    background-color: #0077cc;
+    color: white;
+    text-align: center;
     padding: 40px;
 }
 
-h1 {
-    color: #0077cc;
+section {
+    padding: 30px;
 }
 
 h2 {
-    color: #004080;
+    color: #0077cc;
 }
 
 ul {
